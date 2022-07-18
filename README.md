@@ -1,9 +1,13 @@
-- 🥬 Hiya, I'm Kaylee, but you can call me Kayl (like the vegetable). My pronouns are shey/they.
+## 📍About me
+- 🥬 Hiya, I'm Kaylee, but you can call me Kayl (like the vegetable). My pronouns are she/they.
 - 💡 I’m interested in web/full stack development, internet of things, video games, writing and reading, science, and philosophy.
 - 🗣️ I care about equal rights for all, improving accessibility for disabled folks, workplace diversity, mental health awareness, and animal rights.
-- 🌱 I’m currently polishing up my capstone project and learning React.js, Git, MongoDB, and Google Maps APIs.
-- 💞 I’m looking to meet others who are also students, new to coding, and/or job hunting, as well as people in any position who have words of wisdom!
+- 🌱 I’m currently polishing up my capstone project and learning React.js, Git, MongoDB, and Google Maps APIs. I'm also working on a website/digital storefront for a hypothetical pre-owned record store.
+- 💞 I’m looking to meet others who are also current, former, or prospective bootcamp students, new to coding, and/or those who are job hunting in the tech industry, as well as people in any position who have words of wisdom!
 - 📫 Feel free to shoot me a message at guisekayl@gmail.com or at my blog on Medium (coming soon).
+## 🔗Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/kayleeguise/)
+- 🐥 [Twitter](https://twitter.com/KaylDev)
 
 <!---
 dis-guisekaylee/dis-guisekaylee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
