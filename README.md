@@ -4,10 +4,10 @@
 - 🗣️ I care about equal rights for all, improving accessibility for disabled folks, workplace diversity, mental health awareness, and animal rights.
 - 🌱 I’m currently polishing up my capstone project and learning React.js, Git, MongoDB, and Google Maps APIs. I'm also working on a website/digital storefront for a hypothetical pre-owned record store.
 - 💞 I’m looking to meet others who are also current, former, or prospective bootcamp students, new to coding, and/or those who are job hunting in the tech industry, as well as people in any position who have words of wisdom!
-- 📫 Feel free to shoot me a message at guisekayl@gmail.com or at my blog on Medium (coming soon).
 ## 🔗Links
+- 📧 [Email](mailto:mailto:guisekayl@gmail.com?bcc=kaylee.guise@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kayleeguise/)
-- 🐥 [Twitter](https://twitter.com/KaylDev)
+- 🐦 [Twitter](https://twitter.com/KaylDev)
 
 <!---
 dis-guisekaylee/dis-guisekaylee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
