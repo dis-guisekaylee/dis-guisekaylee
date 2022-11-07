@@ -1,13 +1,13 @@
 ## 📍About Me
-🥬 Hiya, I'm Kaylee, but you can call me Kayl (like the vegetable). My pronouns are she/they.
+🥬 Hiya, I'm Kaylee, and I'm a full stack web developer from Wisconsin. My pronouns are she/her/hers.
 
-💡 I’m interested in web/full stack development, internet of things, video games, writing and reading, science, and philosophy.
+💡 I’m interested in front end development, UI/UX design, HTML/CSS, internet of things, video games, writing and reading, science, history, and philosophy.
 
-🗣️ I care about equal rights for all, improving accessibility for disabled folks, workplace diversity, mental health awareness, and animal rights.
+🗣️ I care about equal rights for all, improving accessibility for the disability community, workplace diversity, mental health awareness, and animal rights.
 
-🌱 I’m currently polishing up my capstone project and learning React.js, Git, MongoDB, and Google Maps APIs. I'm also working on a website/digital storefront for a hypothetical pre-owned record store.
+🌱 I’m currently polishing up my capstone project and learning React, GitHub, CSS, SQL, and video editing. I also moderate a Discord server and am curious about programming Discord Bots.
 
-💞 I’m looking to meet others who are also current, former, or prospective bootcamp students, new to coding, and/or those who are job hunting in the tech industry, as well as people in any position who have words of wisdom!
+💞 I’m looking to meet others who are students or new grads, new to coding, and those who are job hunting in the tech industry, as well as people in any position who have words of wisdom!
 
 ## ⭐Favorite Repositories
 - [Dalamud](https://github.com/goatcorp/Dalamud)
