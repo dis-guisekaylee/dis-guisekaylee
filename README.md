@@ -1,5 +1,5 @@
 ## 📍About Me
-🥬 Hiya, I'm Kaylee, and I'm a full stack web developer from Wisconsin. My pronouns are she/her/hers.
+ Hiya, I'm Kaylee, and I'm a full stack web developer from Wisconsin. My pronouns are she/her/hers.
 
 💡 I’m interested in front end development, UI/UX design, HTML/CSS, internet of things, video games, writing and reading, science, history, and philosophy.
 
