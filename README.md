@@ -9,7 +9,7 @@
 
 💞 I’m looking to meet others who are students or new grads, new to coding, and those who are job hunting in the tech industry, as well as people in any position who have words of wisdom!
 
-## ⭐Favorite Repositories
+## ⭐Cool Repositories
 - [Dalamud](https://github.com/goatcorp/Dalamud)
 - [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)
 - [Anamnesis](https://github.com/imchillin/Anamnesis)
@@ -17,13 +17,11 @@
 
 
 ## 🔗Links
-📧 [Email](mailto:mailto:guisekayl@gmail.com?bcc=kaylee.guise@gmail.com)
+📧 [Email](mailto:guisekayl@gmail.com)
 
 💼 [LinkedIn](https://www.linkedin.com/in/kayleeguise/)
 
 ⚙️ [Stack Overflow](https://stackoverflow.com/users/19803805/dis-guisekaylee)
-
-🐦 [Twitter](https://twitter.com/KaylDev)
 
 <!---
 dis-guisekaylee/dis-guisekaylee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
