@@ -5,21 +5,15 @@
 
 🗣️ I care about equal rights for all, improving accessibility for the disability community, workplace diversity, mental health awareness, and animal rights.
 
-🌱 I’m currently polishing up my capstone project and learning React, GitHub, CSS, SQL, and video editing. I also moderate a Discord server and am curious about programming Discord Bots.
-
-💞 I’m looking to meet others who are students or new grads, new to coding, and those who are job hunting in the tech industry, as well as people in any position who have words of wisdom!
-
 ## ⭐Cool Repositories
 - [Dalamud](https://github.com/goatcorp/Dalamud)
-- [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)
-- [Anamnesis](https://github.com/imchillin/Anamnesis)
+- [Luma3DS](https://github.com/LumaTeam/Luma3DS)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
 - [Learn Anything](https://github.com/learn-anything/learn-anything)
 
 
 ## 🔗Links
-📧 [Email](mailto:guisekayl@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/kayleeguise/)
+📧 [Email](mailto:kaylee.guise@gmail.com)
 
 ⚙️ [Stack Overflow](https://stackoverflow.com/users/19803805/dis-guisekaylee)
 
